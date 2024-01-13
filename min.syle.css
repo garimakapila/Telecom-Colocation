@@ -20,7 +20,7 @@ nav ul {
     padding: 100px;
     margin: 0;
     display: inline-block;
-    justify-content: center;
+    justify-content: left;
 }
 
 nav a {
