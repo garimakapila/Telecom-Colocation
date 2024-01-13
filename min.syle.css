@@ -19,7 +19,7 @@ nav ul {
     list-style: none;
     padding: 100px;
     margin: 0;
-    display: flex;
+    display: inline-block;
     justify-content: center;
 }
 
